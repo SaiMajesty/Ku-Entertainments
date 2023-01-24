@@ -1,0 +1,7 @@
+.about{
+  background: hsla(17, 95%, 50%, 1);
+
+background: linear-gradient(90deg, hsla(17, 95%, 50%, 1) 0%, hsla(42, 94%, 57%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#F74C06", endColorstr="#F9BC2C", GradientType=1 );
+}
